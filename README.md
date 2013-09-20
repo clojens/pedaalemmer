@@ -9,15 +9,14 @@ A personal repository to keep code, resources, snippets and draft texts or proje
 
 ## The name?
 
-Dutch for 'pedal bin'. I had to come up with *some name* didn't I? This was the first thing that
-popped up, you'd think it has something to do with the 'ped' although there are other associations
-one could have made that would have been less fortunate perhaps:
+Dutch for 'pedal bin'. I had to come up with *some name* didn't I? This was the first thing that popped up.
 
 > Remember that the Greek ped- means "child" while the Latin ped- means "foot".
 
-So our case, it's the latter. I was lucky to intuitively realize this difference, else I might had just picked pedagog as a name. Or worse. Also, somehow I managed to find a picture that can go with it.
+So in our case, it's the latter. I was lucky to intuitively realize this difference, else I might had just picked pedagog or some less acceptable derivate of such.
+
+It also suites because, well, the trashcan / kitchensink-like nature of this repository and the content within. Somehow I even managed to find a picture that could go with it.
 
 ## License
 
-Just like Clojure and Pedestal, keep that in mind as I don't intend to copy paste 200 License declarations. If you feel I must because some of it is *YOUR* work and you have some unexplainable
-need to tag everywhere that you made it, let me know and I'll add it whereever you want.
+Just like Clojure and Pedestal (see `LICENSE` file), keep that in mind as I don't intend to copy paste 200 'License Declarations'. If you feel I must because some of it is *YOUR* work and you have some unexplainable need to tag everywhere like some grafiti artist, by all means, let me know and I'll add it where ever you want.
