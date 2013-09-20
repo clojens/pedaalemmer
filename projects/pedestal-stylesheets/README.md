@@ -9,7 +9,8 @@
 <dd>pedestal-stylesheets.service, pedestal-stylesheets.server</dd>
 <dt>API Stability:</dt>
 <dd>experimental</dd>
-<dt>Authority: informal, uncoordinated, non-affiliated</dt>
+<dt>Authority:</dt>
+<dd>informal, uncoordinated, non-affiliated</dd>
 </dl>
 
 
