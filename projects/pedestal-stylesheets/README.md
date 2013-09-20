@@ -2,10 +2,15 @@
 
 ## Factsheet
 
-Life Cycle Phase: early conceptual draft
-Namespaces Contained: pedestal-stylesheets.service, pedestal-stylesheets.server
-API Stability: experimental
-Authority: informal, uncoordinated
+<dl>
+<dt>Life Cycle Phase:</dt>
+<dd>early conceptual draft</dd>
+<dt>Namespaces Contained:</dt>
+<dd>pedestal-stylesheets.service, pedestal-stylesheets.server</dd>
+<dt>API Stability:</dt>
+<dd>experimental</dd>
+<dt>Authority: informal, uncoordinated, non-affiliated</dt>
+</dl>
 
 
 ## History
