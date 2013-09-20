@@ -1,9 +1,7 @@
 pedaalemmer
 ===========
 
-![The Pedal Bin and Pedestal in Copenhagen](resources/assets/images/pedestal-pedal-bin-caption.jpg)
-
-*Pedestal and Pedal Bin during happier times*
+![The Pedal Bin and Pedestal in Copenhagen](resources/assets/images/pedestal-pedal-bin.jpg)
 
 ## What is this?
 
